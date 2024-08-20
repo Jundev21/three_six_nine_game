@@ -13,6 +13,7 @@ ThreeSizNineGame - 369 게임 기반이 되는 클래스 (게임 지역 필드, 
 5. 서울 규칙은 369에 clap 을 한번치지만 부산은 3,6,9 의 숫자에 맞는 clap 을 외쳐야한다. 
 
 -서울
-![Screenshot 2024-08-20 at 6.47.09 PM.png](..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fzr%2F08by3snj28gbpsxs7rdlk0mw0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_Zze1MR%2FScreenshot%202024-08-20%20at%206.47.09%E2%80%AFPM.png)
+<img width="645" alt="Screenshot 2024-08-20 at 9 55 00 PM" src="https://github.com/user-attachments/assets/d09d4ee8-778b-4ac2-85bb-2f504397e8bb">
+
 -부산
-![Screenshot 2024-08-20 at 6.47.57 PM.png](..%2F..%2F..%2F..%2Fvar%2Ffolders%2Fzr%2F08by3snj28gbpsxs7rdlk0mw0000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_PmURh4%2FScreenshot%202024-08-20%20at%206.47.57%E2%80%AFPM.png)# three_six_nine_game
+<img width="947" alt="Screenshot 2024-08-20 at 6 22 37 PM" src="https://github.com/user-attachments/assets/381bb50d-3c9e-46eb-87e2-57a61f219723">
